@@ -8,7 +8,7 @@ HELLO!</br>
 </i>
 ɪ ᴀᴍ ᴀ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ᴜᴋʀᴀɪɴᴇ 🇺🇦</h1>
 <p align="center">💡 I’m interested in development towards Front-end </br>
-✉️ Сontact me by email - <a href="">v.katk0ov@gmail.com</a></p>
+✉️ Сontact me by email - <a href="mailto:v.katk0ov@gmail.com">v.katk0ov@gmail.com</a></p>
 <i align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Katkov&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
